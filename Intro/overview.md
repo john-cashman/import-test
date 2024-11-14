@@ -2,6 +2,7 @@
 title: "Product Updates"
 description: "New updates and improvements"
 mode: "wide"
+icon: "wave"
 ---
 
 
