@@ -1,0 +1,37 @@
+# Summary of Converted Pages
+
+- shadow-workspace.mdx
+- models.mdx
+- api-keys.mdx
+- ai-review.mdx
+- overview.mdx
+- codebase.mdx
+- apply.mdx
+- customize.mdx
+- overview.mdx
+- from-gh-copilot.mdx
+- advanced-features.mdx
+- rules-for-ai.mdx
+- codebase-indexing.mdx
+- ignore-files.mdx
+- @-link.mdx
+- @-docs.mdx
+- @-folders.mdx
+- @-chat.mdx
+- @-code.mdx
+- @-definitions.mdx
+- basic.mdx
+- @-codebase.mdx
+- @-git.mdx
+- @-files.mdx
+- @-web.mdx
+- privacy.mdx
+- overview.mdx
+- terminal-cmdk.mdx
+- keyboard-shortcuts.mdx
+- auto-terminal-debug.mdx
+- migrate-from-vscode.mdx
+- usage.mdx
+- what-is-cursor.mdx
+- common-issues.mdx
+- troubleshooting-guide.mdx
